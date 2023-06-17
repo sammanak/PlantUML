@@ -1,0 +1,13 @@
+@startuml style
+
+skinparam BackgroundColor White
+skinparam DefaultFontColor Black
+skinparam DefaultFontName Ubuntu
+skinparam ParticipantFontSize 15
+
+skinparam ParticipantBackgroundColor WhiteSmoke
+skinparam RoundCorner 15
+skinparam MaxMessageSize 200
+skinparam NoteBackgroundColor #FEFFDDEE
+
+@enduml

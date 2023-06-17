@@ -2,7 +2,7 @@
 
 skinparam BackgroundColor White
 skinparam DefaultFontColor Black
-skinparam DefaultFontName Ubuntu
+' skinparam DefaultFontName Ubuntu
 skinparam ParticipantFontSize 15
 
 skinparam ParticipantBackgroundColor WhiteSmoke
